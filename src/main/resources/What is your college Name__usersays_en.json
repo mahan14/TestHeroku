@@ -1,0 +1,35 @@
+[
+  {
+    "id": "538073d1-1e7a-4958-8618-0330b586d905",
+    "data": [
+      {
+        "text": "My college name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f7ddb88b-1cf8-4b85-94f5-40a6f0fb45be",
+    "data": [
+      {
+        "text": "Clg name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "edf40212-3c54-41f6-8b92-dabcdea39b6b",
+    "data": [
+      {
+        "text": "What is your college Name?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

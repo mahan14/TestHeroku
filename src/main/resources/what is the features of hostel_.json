@@ -1,0 +1,20 @@
+{
+  "id": "153d3cf2-0c37-45eb-974c-c43a97dc9bd9",
+  "name": "what is the features of hostel?",
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ]
+}

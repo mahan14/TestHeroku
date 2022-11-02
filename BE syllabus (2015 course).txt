@@ -1,0 +1,6 @@
+{
+  "id": "448e8ce1-ce4a-4cd6-8db5-b9ba190aa1d2",
+  "name": "BE syllabus (2015 course)",
+  "response": "Click on the below link \nhttp://www.srttc.ac.in/becomp2015.pdf"
+  
+}

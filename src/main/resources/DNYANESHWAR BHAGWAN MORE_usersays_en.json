@@ -1,0 +1,28 @@
+[
+  {
+    "id": "a270257c-2ff9-4fa3-b312-9490efc05940",
+    "data": [
+      {
+        "text": "Do you know anything about ",
+        "userDefined": false
+      },
+      {
+        "text": "DNYANESHWAR",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " BHAGWAN ",
+        "userDefined": false
+      },
+      {
+        "text": "MORE",
+        "alias": "branch",
+        "meta": "@branch",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

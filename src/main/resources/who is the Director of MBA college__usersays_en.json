@@ -1,0 +1,35 @@
+[
+  {
+    "id": "27c75e42-0b4b-4bde-a8cf-2ce57292c930",
+    "data": [
+      {
+        "text": " MBA college  Director ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5290a9a2-35d9-46a3-ab79-3c7b4ca498c8",
+    "data": [
+      {
+        "text": "who is the Director of MBA college?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "0708f44b-e8dd-41a2-ad2f-9f48a8c45dce",
+    "data": [
+      {
+        "text": "Director of MBA college?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

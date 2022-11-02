@@ -1,0 +1,20 @@
+{
+  "id": "aa4006a7-48d8-416e-bf6d-87e927ada38c",
+  "name": "Placement coordinator",
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Mr.Rahul mishra"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ]
+}

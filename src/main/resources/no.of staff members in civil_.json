@@ -1,0 +1,20 @@
+{
+  "id": "0c2a45cd-4af3-4643-9211-90adf7a5d7d0",
+  "name": "no.of staff members in civil?",
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "I am learning I will be updated soon"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ]
+}

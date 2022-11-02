@@ -1,0 +1,20 @@
+{
+  "id": "726c5b13-21ca-4a4f-8bf3-6da816728101",
+  "name": "no.of staff members in computer?",
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ]
+}

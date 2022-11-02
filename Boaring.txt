@@ -1,0 +1,6 @@
+{
+  "id": "fcc56834-c787-4cc5-b2e5-c8d48000bf4d",
+  "name": "Boaring",
+  "response": "Take my advise https://www.forbes.com/sites/lizwessel/2018/02/07/7-things-every-college-student-must-do-in-2018/#2b5e9a7f6d09"
+     
+}

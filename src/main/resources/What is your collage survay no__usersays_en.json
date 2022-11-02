@@ -1,0 +1,35 @@
+[
+  {
+    "id": "6b2772f8-e4ea-4fcd-a88f-122783a4075c",
+    "data": [
+      {
+        "text": "college survay no",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "faa8d065-4f79-4990-9596-e1b1730148a3",
+    "data": [
+      {
+        "text": "survey no of college",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f9040bf7-21c3-4620-aebf-e7acd1d60e1e",
+    "data": [
+      {
+        "text": "69-71,Tal-Bhor.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

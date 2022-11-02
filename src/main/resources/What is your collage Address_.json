@@ -1,0 +1,20 @@
+{
+  "id": "dee02b97-a0b4-4464-bfb1-003a4455ff6d",
+  "name": "What is your collage Address?",
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "serial no. 69,70,71 ,Naigaon(Nasarapur),pune-412213."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+[
+  {
+    "id": "8a1dc9df-fb78-460e-822b-5b5bda57d527",
+    "data": [
+      {
+        "text": " admission criteria MBA ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "289c706e-1a90-448f-870e-a1c2bbe9bfb1",
+    "data": [
+      {
+        "text": "MBA admission criteria",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  }
+]

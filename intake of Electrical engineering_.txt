@@ -1,0 +1,20 @@
+{
+  "id": "8624e7b8-4a4e-42f0-9078-76cbd38ef833",
+  "name": "intake of Electrical engineering?",
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": "cf0453b2-b0f8-46d6-a6d8-dacfd3e0d70e",
+  "name": "what is under graduate courses ?",
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ]
+}

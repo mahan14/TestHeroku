@@ -1,0 +1,6 @@
+{
+  "id": "2c7ef27d-aa4b-4b33-b268-086a5a4e0fe6",
+  "name": "Facilities",
+  "response": "MBA intake 120 \tDegree intake\t360\n6.\tScholarship for SC/ST/SBC/NT\t100% in tuition fess\n7.\tScholarship for OBC\t50% in tuition fees\n8.\tScholarship for Open Category (EBC)\t50% in tuition fees\n9.\tHostel for girls and boys\tAvailable\n10.\tBus Facility\tAvailable from all the routes\n11.\tATM Facility\tAvailable\n12.\tExperienced Faculty\tAvailable\n13.\tInstallment in fees\tNegotiable\n15.\tEligibility for Degree\t12th pass\n16.\tEligibility for MBA\tGraduate\n18.\tARC\tAvailable\n19.\tFree Counseling for admission procedure\tAvailable\n20.\tPlacement \u0026 Training\tAvailable\n21.\tIndustrial Visit \u0026 Guest Lecture\tYES\n22.\tLibrary\tYES\n23.\tInternet Facility (wi-fi Connectivity)\tYES\n24.\tCultural \u0026 Sports Activity\tYES\n25.\tLaboratories\tWell Set up\n26.\tComputer Center\tMore than 1000 computer\n27.\tMBA Director\tDr. Charak K.S.\n28.\tDegree Principal\tDr. R.J.patil\n30.\tInstitute level admission"
+       
+}

@@ -1,0 +1,35 @@
+[
+  {
+    "id": "48bd3f76-25b1-4153-aa18-3ffaa389b494",
+    "data": [
+      {
+        "text": "Suggest me some cool sites to learn",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "0fba49e1-c267-4747-8788-01cde46ef663",
+    "data": [
+      {
+        "text": "any good websites",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "99646cf5-c881-408e-8713-ee3ab9ffc8b1",
+    "data": [
+      {
+        "text": "best content to learn",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

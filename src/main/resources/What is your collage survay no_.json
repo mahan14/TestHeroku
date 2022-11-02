@@ -1,0 +1,20 @@
+{
+  "id": "52a2bc15-b72b-4670-aae5-c34f03bcdd3c",
+  "name": "What is your collage survay no?",
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "69-71,Tal-Bhor."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ]
+}

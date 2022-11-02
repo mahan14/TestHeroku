@@ -1,0 +1,35 @@
+[
+  {
+    "id": "bdbf3b66-0925-4732-8201-fd84b66d5b75",
+    "data": [
+      {
+        "text": "number of branches in my college",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1e2c89ca-fd17-48b6-a1a9-0d122f51bd02",
+    "data": [
+      {
+        "text": "How many branches in my college",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "0db35771-256c-46dd-92fe-3a6e59005f43",
+    "data": [
+      {
+        "text": "college branches",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

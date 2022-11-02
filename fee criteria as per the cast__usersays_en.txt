@@ -1,0 +1,57 @@
+[
+  {
+    "id": "17abc5ee-448d-49f7-9405-a7234a705b46",
+    "data": [
+      {
+        "text": "castwise fees",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4d04cc49-640b-4ab4-b82b-71b061ab8ad0",
+    "data": [
+      {
+        "text": "Criteria for fees as per cast",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f00c3533-daf8-4e72-805c-0f783a40dc05",
+    "data": [
+      {
+        "text": "fees as per cast",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "aeedbf2d-a6d8-4b6e-bb70-eec2f3097b30",
+    "data": [
+      {
+        "text": "college fees castwise\\",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e07e51d7-482d-4708-b7ed-6dfff1431e88",
+    "data": [
+      {
+        "text": "fee criteria as per the cast?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

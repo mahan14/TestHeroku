@@ -1,0 +1,6 @@
+{
+  "id": "4a550bf0-50e7-4ceb-98b1-6722a7f3c32f",
+  "name": "CollegeCampus",
+  "response": "imageUrl https://www.google.com/url?sa\u003di\u0026source\u003dimages\u0026cd\u003d\u0026cad\u003drja\u0026uact\u003d8\u0026ved\u003d2ahUKEwjQ0s7nr63hAhU65eAKHbS2BF0QjRx6BAgBEAU\u0026url\u003dhttp%3A%2F%2Fwww.navsahyadri.edu.in%2Faboutgroup\u0026psig\u003dAOvVaw00veTv17qf-7mtiLMGJWrf\u0026ust\u003d1554155833747336"
+       
+}

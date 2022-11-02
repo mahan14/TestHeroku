@@ -1,0 +1,20 @@
+{
+  "id": "78a8e2dc-8273-4750-bdd9-a3120e2d2f5f",
+  "name": "MBA admission criteria?",
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "The candidate should have completed graduation with 50% for general and 45% reserved category."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ]
+}

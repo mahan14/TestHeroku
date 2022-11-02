@@ -1,0 +1,6 @@
+{
+  "id": "846dea60-1017-4e81-aef7-5194379e08fe",
+  "name": "fee criteria as per the cast?",
+  "response": "open - 34000/- ,  OBC - 32000/- ,   NT - 8000/- ,  ST/SC  -0/-"
+       
+}

@@ -1,0 +1,36 @@
+{
+  "id": "63c416d1-d5f8-42be-8e13-fd8ed68fcf60",
+  "name": "What is your college Name?",
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "Navsahyadri COE",
+          "subtitle": "Best Engineering college",
+          "imageUrl": "https://images.static-collegedunia.com/public/college_data/images/logos/1492664213LOG.png",
+          "buttons": []
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Navsahyadri  Education society group of institute"
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Navsahyadri  COE"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true
+      },
+      "speech": []
+    }
+  ]
+}

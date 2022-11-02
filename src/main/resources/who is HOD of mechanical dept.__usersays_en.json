@@ -1,0 +1,35 @@
+[
+  {
+    "id": "8676a39e-6d0d-4249-a628-b1747f65e35f",
+    "data": [
+      {
+        "text": "Mechanical dept HOD",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f27930d1-238b-4d9f-84b8-82b8fe300a40",
+    "data": [
+      {
+        "text": "who is HOD of mechanical dept.?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f7444218-f14e-466a-9090-7c887b321845",
+    "data": [
+      {
+        "text": "HOD of mechanical dept",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

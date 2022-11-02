@@ -1,0 +1,6 @@
+{
+	"id": "2b89b483-cd69-48f8-b511-ef5d99d42f48",
+	"name": "BATHE YOGITA SUDHIR",
+	"response": "Here you go Gender :F\nAadhar No:452356948578\nEligibility No:12018262365\nEmail ID:bateyogita30@gmail.com\nMob no:9284156897\nProgram name:SE(Computer)\nYear of Joining:2018\nPRN No:71728725S"
+
+}

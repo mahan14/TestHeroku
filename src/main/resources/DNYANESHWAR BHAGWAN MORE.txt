@@ -1,0 +1,6 @@
+{
+  "id": "6a187370-225f-4b3a-8051-cac83f91d700",
+  "name" : "DNANESHWAR BHAGWAN MORE",
+  "response":  "Gender :M\nAadhar No:45219344568\nEligibility No:12018262561\nEmail ID:morednyaneshwar23@gmail.com\nMob no:9284155429\nProgram name:SE(Computer)\nYear of Joining:2017\nPRN No:717287289P"
+     
+}

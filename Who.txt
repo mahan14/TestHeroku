@@ -1,0 +1,5 @@
+{
+  "id": "d10cc088-b608-49dd-a045-714a389e5b8a",
+  "name": "Who",
+  "responses":  "I am a College bot,  can I help you for?"
+       }

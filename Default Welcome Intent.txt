@@ -1,0 +1,6 @@
+{
+  "id": "486927e4-ae97-4ed6-8ed8-2db7949a5eb7",
+  "name": "Default Welcome Intent",
+  "response":  "Greetings! How can I assist?"
+          
+}

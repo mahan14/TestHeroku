@@ -1,0 +1,35 @@
+[
+  {
+    "id": "e2987acc-ba9b-4352-bea4-430b66f406b6",
+    "data": [
+      {
+        "text": "electrical dept HOD.?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "71fb6f6a-8457-4f46-99a6-71e02bff67bb",
+    "data": [
+      {
+        "text": "HOD of electrical dept.?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "334b67fb-b211-4641-b854-2e104aaa8d20",
+    "data": [
+      {
+        "text": "who is HOD of electrical dept.?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

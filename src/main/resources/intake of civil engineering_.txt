@@ -1,0 +1,26 @@
+{
+  "id": "aacec01e-8cb7-4ad9-990d-71b18add527a",
+  "name": "intake of civil engineering?",
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "intakeofcivilengineering-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "1st year-  60   ||  2nd year- 12"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ]
+}

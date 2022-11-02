@@ -1,0 +1,35 @@
+{
+  "id": "581267b8-692a-4c01-8909-823ff943d05f",
+  "name": "Student info about poornima",
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "c1dd1b60-1d30-49f0-aa9b-f1eeadb6093f",
+          "required": true,
+          "dataType": "@branch",
+          "name": "branch",
+          "value": "$branch",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Can you help me with branch name of student?"
+            }
+          ],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Here you  go  Gender :F\nAadhar No:452193476883\nEligibility No:12018262362\nEmail ID:pavaghade2330@gmail.com\nMob no:9284155429\nProgram name:SE(Computer)\nYear of Joining:2018\nPRN No:71728725N"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ]
+}

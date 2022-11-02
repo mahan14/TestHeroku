@@ -1,0 +1,20 @@
+{
+  "id": "fc3ad946-1198-41cf-8f3a-9d207607e48e",
+  "name": "What is Post graduate Course?",
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "MBA,MBA+,MCA"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ]
+}

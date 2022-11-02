@@ -1,0 +1,20 @@
+{
+  "id": "1313fd77-2a4a-471a-b0f7-5aca31415e83",
+  "name": "List of doc for scholarship",
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "1.Income certifiate 2.Adhar card xerox copy 3. DTE confirmation letter 4.Leaving Certificate 5. SSC/HSC marksheet 6.Cast certificate 7. Non-Creamy Layer 8.Cast validaty 9."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ]
+}

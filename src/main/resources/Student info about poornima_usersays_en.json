@@ -1,0 +1,83 @@
+[
+  {
+    "id": "202bb138-ea1e-4f05-8efd-a8dc90193d70",
+    "data": [
+      {
+        "text": "Tell me about",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " AVAGHADE ",
+        "userDefined": false
+      },
+      {
+        "text": "PORNIMA",
+        "alias": "branch",
+        "meta": "@branch",
+        "userDefined": true
+      },
+      {
+        "text": " VISHNU",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a3aeb341-529e-4511-8ce9-36e72ab7805b",
+    "data": [
+      {
+        "text": "I want information about ",
+        "userDefined": false
+      },
+      {
+        "text": "AVAGHADE PORNIMA VISHNU",
+        "alias": "branch",
+        "meta": "@branch",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "0529ee0d-9454-4686-9467-1ccfd44ed766",
+    "data": [
+      {
+        "text": "Do you know anything about ",
+        "userDefined": false
+      },
+      {
+        "text": "AVAGHADE",
+        "alias": "branch",
+        "meta": "@branch",
+        "userDefined": true
+      },
+      {
+        "text": " PORNIMA VISHNU",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a5cd35ba-80b7-4fca-bb82-9aef85510aba",
+    "data": [
+      {
+        "text": "Who is ",
+        "userDefined": false
+      },
+      {
+        "text": "Avaghade pornima",
+        "alias": "branch",
+        "meta": "@branch",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

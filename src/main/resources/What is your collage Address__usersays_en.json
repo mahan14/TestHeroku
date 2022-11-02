@@ -1,0 +1,24 @@
+[
+  {
+    "id": "ff08b34e-b46a-46a8-92d2-e5396c896f57",
+    "data": [
+      {
+        "text": "What is your collage Address?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "df2a4649-2b03-44e7-88d5-8f3d21bf3af4",
+    "data": [
+      {
+        "text": "College address",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  }
+]

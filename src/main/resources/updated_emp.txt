@@ -1,0 +1,35 @@
+{
+  "id" : 500,
+  "name" : "BATHE YOGITA SUDHIR",
+  "auto" : true,
+  "contexts" : [ ],
+  "responses" : [ {
+    "resetContexts" : false,
+    "affectedContexts" : [ ],
+    "parameters" : [ {
+      "id" : "2be05f81-a9e1-4290-8e12-611471c156be",
+      "required" : true,
+      "dataType" : "@branch",
+      "name" : "branch",
+      "value" : "$branch",
+      "prompts" : [ {
+        "lang" : "en",
+        "value" : "can you help me with branch"
+      } ],
+      "isList" : true
+    } ],
+    "messages" : [ {
+      "type" : 0,
+      "lang" : "en",
+      "speech" : "Here you go Gender :F\nAadhar No:452356948578\nEligibility No:12018262365\nEmail ID:bateyogita30@gmail.com\nMob no:9284156897\nProgram name:SE(Computer)\nYear of Joining:2018\nPRN No:71728725S"
+    } ],
+    "defaultResponsePlatforms" : { },
+    "speech" : [ ]
+  } ],
+  "priority" : 500000,
+  "webhookUsed" : false,
+  "webhookForSlotFilling" : false,
+  "fallbackIntent" : false,
+  "events" : [ ],
+  "test" : "test value"
+}

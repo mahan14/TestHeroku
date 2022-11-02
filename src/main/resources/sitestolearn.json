@@ -1,0 +1,20 @@
+{
+  "id": "8edae6a3-0f4f-4c88-93ec-aea9635d0c95",
+  "name": "sitestolearn",
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "You can read technical article at medium.com"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ]
+}

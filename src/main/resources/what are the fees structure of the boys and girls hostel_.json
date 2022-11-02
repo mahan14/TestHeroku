@@ -1,0 +1,20 @@
+{
+  "id": "ac049241-b816-4e9e-a245-e4778dde9f3a",
+  "name": "what are the fees structure of the boys and girls hostel?",
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ]
+}

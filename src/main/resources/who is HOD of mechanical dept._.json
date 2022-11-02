@@ -1,0 +1,21 @@
+{
+  "id": "1353e5bf-016e-462d-aa7d-33540fd46ee9",
+  "name": "who is HOD of mechanical dept.?",
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Prof.P.S.Bhokare"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ]
+  
+}

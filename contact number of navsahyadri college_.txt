@@ -1,0 +1,6 @@
+{
+  "id": "95a5bb22-eb14-4dc5-b5de-49b201655036",
+  "name": "contact number of navsahyadri college?",
+  "response": "91-7769937007"
+  
+  }

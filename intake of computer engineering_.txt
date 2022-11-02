@@ -1,0 +1,20 @@
+{
+  "id": "1076408c-a248-42f5-8204-36dc8cd9378f",
+  "name": "intake of computer engineering?",
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "1st year- 60  ||  2nd year-12"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+[
+  {
+    "id": "ecc0c0b7-b669-4792-9535-639b6f97b79a",
+    "data": [
+      {
+        "text": "HOD of E\u0026TC dept.?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a39d4936-3287-4e53-86b0-d4b2a963f3c6",
+    "data": [
+      {
+        "text": " E\u0026TC dept  HOD .?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "47c506be-2a51-44f8-8bb8-5bee6fee3c3f",
+    "data": [
+      {
+        "text": "who is HOD of E\u0026TC dept.?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

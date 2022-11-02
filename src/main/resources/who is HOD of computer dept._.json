@@ -1,0 +1,20 @@
+{
+  "id": "c6050d1b-aaee-4687-ad9a-6e2c99ceb2b6",
+  "name": "who is HOD of computer dept.?",
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Prof. P.W.Kulkarni"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ]
+}

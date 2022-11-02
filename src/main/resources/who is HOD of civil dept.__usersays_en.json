@@ -1,0 +1,46 @@
+[
+  {
+    "id": "4bb40f3d-1111-4fe9-9a78-f1d7546c6e91",
+    "data": [
+      {
+        "text": "HOD CIVIl Dept",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a855b022-403e-431f-b5cd-5f847802e604",
+    "data": [
+      {
+        "text": "who is HOD of civil dept.?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "5db368e8-b423-4cb0-b319-d48fb55000bc",
+    "data": [
+      {
+        "text": "civil hod",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "42580393-f29a-428f-a921-c5727e8a17cb",
+    "data": [
+      {
+        "text": "Civil branch hod",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

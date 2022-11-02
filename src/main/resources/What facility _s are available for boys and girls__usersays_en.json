@@ -1,0 +1,35 @@
+[
+  {
+    "id": "49283a6e-5065-44b6-883b-29cba2626b60",
+    "data": [
+      {
+        "text": "facilities for students",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "eb55f71f-ea2d-44b2-8f52-4254e104c106",
+    "data": [
+      {
+        "text": "facilities for girls and boys",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "0406d448-9751-4306-bd52-2f87f5533b18",
+    "data": [
+      {
+        "text": "facilities available for boys and girls",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

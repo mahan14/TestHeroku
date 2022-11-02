@@ -1,0 +1,6 @@
+{
+  "id": "67cfa18b-6c65-4056-8827-a4704990ae48",
+  "name": "concession in tution fee of minority",
+  "response": "Please contact to student section"
+       
+}

@@ -1,0 +1,20 @@
+{
+  "id": "62ae3dd3-d6e1-4ccf-a0a9-54c4f086c883",
+  "name": "Who is the collage President?",
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Mr.Popatrao N Suke"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": "bd4f8e65-116c-4ae4-8e53-0e3ef0a9c102",
+  "name": "intake of E\u0026TC engineering?",
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "1st year-  30 ||  2nd year-12"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ]
+}

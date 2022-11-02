@@ -1,0 +1,6 @@
+{
+  "id": "5cdd70dc-ebf6-4229-b9c8-60493e1eb291",
+  "name": "concession in tution fee of EBC for open category",
+  "response": "Please contact to Student Section"
+        
+}
