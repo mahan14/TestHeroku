@@ -50,7 +50,7 @@ public class IndexController {
 
     @GetMapping("/")
     public String index() {
-        return "Hello there! I'm running in branch Harshada.";
+        return "This is spring boot example, and Continuous integration and continuous deployemtn.";
     }
 
 	@RequestMapping(value = "/tokenizer/"+VERSION, consumes = MediaType.APPLICATION_JSON_VALUE, produces = { "application/json" },method = RequestMethod.POST)
