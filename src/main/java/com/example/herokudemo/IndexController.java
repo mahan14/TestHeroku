@@ -8,6 +8,8 @@ import java.nio.file.Paths;
 import java.text.Collator;
 import java.util.Locale;
 import java.util.StringTokenizer;
+
+import com.sun.deploy.net.HttpResponse;
 import opennlp.tools.namefind.NameFinderME;
 import opennlp.tools.namefind.TokenNameFinderModel;
 import opennlp.tools.sentdetect.SentenceDetectorME;
@@ -66,9 +68,7 @@ public class IndexController {
 		i++;
 		}
 		TokenResponse.setToken(processed_tok);
-	
-		return TokenResponse.getToken();	
-	
+		return TokenResponse.getToken();
 	}
 	
 	@RequestMapping(value = "/breaksentence/"+VERSION, consumes = MediaType.APPLICATION_JSON_VALUE, produces = { "application/json" },method = RequestMethod.POST)
@@ -96,6 +96,11 @@ public class IndexController {
 		
 		return splitString;
 
+	}
+
+	@RequestMapping(value="/myintro/",consumes = "application/json",produces = { "application/json" },method = RequestMethod.POST)
+	public @ResponseBody Intro myIntro(@RequestBody IntroRequest introRequest){
+		return  new Intro("Shubham","0000000");
 	}
 	
 	@RequestMapping(value = "/findlocation/"+VERSION, consumes = MediaType.APPLICATION_JSON_VALUE, produces = { "application/json" },method = RequestMethod.POST)
